@@ -1,6 +1,6 @@
 # Memory-game-react-build
 
-## Versão em React do Jogo da Memória desenvolvido anteriormente em HTML,JS e CSS. <br> Para essa versão foram adaptados os códigos que utilizei em Js puro para React.
+## Versão em React do Jogo da Memória desenvolvido anteriormente em HTML, JS e CSS. <br> Para essa versão foram adaptados os códigos que utilizei em html5 e JS puro para React.
 ## 👉👉 https://justiceleaguememorygame.netlify.app/
 
 ### Tecnologias Utilizadas:
